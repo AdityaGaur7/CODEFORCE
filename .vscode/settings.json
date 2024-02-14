@@ -1,0 +1,10 @@
+{
+    "workbench.sideBar.location": "right",
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
